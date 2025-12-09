@@ -1,5 +1,9 @@
 ﻿namespace RPG_Game
 {
+    public class Player
+    {
+
+    }
 
     internal class Program
     {
